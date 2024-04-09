@@ -15,5 +15,3 @@ apocalypto2
 breaking bad
 fargo
 ozark
---tagged commit--
-
